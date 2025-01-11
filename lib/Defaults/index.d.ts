@@ -244,6 +244,7 @@ export declare const PROTOCOL_VERSION: number[];
 export declare const MOBILE_NOISE_HEADER: Buffer;
 /** from: https://stackoverflow.com/questions/3809401/what-is-a-good-regular-expression-to-match-a-url */
 export declare const URL_REGEX: RegExp;
+export declare const URL_EXCLUDE_REGEX: RegExp;
 export declare const WA_CERT_DETAILS: {
     SERIAL: number;
 };
