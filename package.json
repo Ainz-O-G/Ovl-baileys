@@ -1,6 +1,6 @@
 {
-  "name": "@faouzkk/baileys",
-  "version": "1.0.2",
+  "name": "ovl_wa_baileys",
+  "version": "1.0.1",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Luffy2ndAccount/Baileys",
+  "homepage": "https://github.com/Ainz-O-G/Ovl-baileys",
   "repository": {
-    "url": "git@github.com:Luffy2ndAccount/Baileys.git"
+    "url": "git@github.com:Ainz-O-G/Ovl-baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
